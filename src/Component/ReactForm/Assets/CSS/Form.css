@@ -1,0 +1,52 @@
+label {
+    margin-bottom: 5px;
+}
+
+input[type=text]{
+    width:70rem;
+    border-radius: 5px;
+}
+
+input[type=email]{
+    width:70rem;
+    border-radius: 5px;
+}
+
+input[type=number]{
+    width:70rem;
+    border-radius: 5px;
+}
+
+select{
+    width:70rem;
+    border-radius: 5px;
+}
+
+textarea{
+    width:70rem;
+    height:7rem;
+    border-radius: 5px;
+}
+
+input[type=submit]{
+    margin-right: 10px;
+    color: white;
+    background-color: green;
+    border-radius: 7px;
+    width:5rem;
+    border-radius: 5px;
+}
+
+input[type=reset]{
+    color: white;
+    background-color: red;
+    border-radius: 7px;
+    width:5rem;
+    border-radius: 5px;
+
+}
+
+.textError{
+    color: red;
+    
+}
